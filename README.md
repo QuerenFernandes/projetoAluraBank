@@ -1,17 +1,9 @@
-# Nome do meu projeto
+# Projeto AluraBank
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de validação de um formulário, onde fiz uma lógica para validar os dois últimos dígitos do CPF e também as demais informações do formulário. Fiz também a padronização de algumas mensagens para mostrar o erro do preenchimento do formulário e além disso, no final o usuário pode enviar uma foto pro banco no ato de abertura da conta. Isso tudo, com o armazenamento de dados no navegador usando o localStorage. 
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
+
+
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
